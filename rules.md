@@ -9,7 +9,7 @@ June 4th, 2019.
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-3. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+3. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
 
 
 ## Ideas to make this challenge more effective

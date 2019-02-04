@@ -1,18 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 4: February 2, 2019 
+## Plan of action - not sure what to and what not to include here! 
 
-**Today's Progress**: 
+### Day 1: February 2, 2019 
 
-**Thoughts:** 
+**Today's Progress**: Finally pushed through stalemate of free code camp data visaulization project 1 : bar chart. Dealt with mysql and succeeding popsql installation on newly accomodated linux system. Completed first run through of pending intro to ML with python by Introduction to Machine Learning with Python by Andreas C. Mueller and Sarah Guido  
 
-**Link to work:** 
+**Thoughts:** Struggled a bit with scaling and stubborn self for making bar chart visualization responsive.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** https://codepen.io/abhi_code_life/full/OaPgaX

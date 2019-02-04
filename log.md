@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 2, 2019 
+### Day 4: February 2, 2019 
 
 **Today's Progress**: 
 

@@ -2,6 +2,12 @@
 
 ## Plan of action - not sure what to and what not to include here! 
 
+**Format for Tweet**:
+Day x/100: <description of work done in 3 lines>
+Link to work: <if required>
+Link to log: https://github.com/abhibhonsle234/100-days-of-code/edit/master/log.md
+#100DaysOfCode
+
 ### Day 1: February 4, 2019 
 
 **Today's Progress**: Finally pushed through stalemate of free code camp data visaulization project 1 : bar chart. Dealt with mysql and succeeding popsql installation on newly accomodated linux system. Completed first run through of pending Introduction to Machine Learning with Python by Andreas C. Mueller and Sarah Guido  

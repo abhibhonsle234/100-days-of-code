@@ -24,7 +24,12 @@ Log: https://bit.ly/2GsN2YA
 **Link to work:** https://codepen.io/abhi_code_life/full/OaPgaX
 
 ### Day 3: February 6, 2019 
-**Today's Progress**: Tweaked code of FCC bar chart project to pass tests. Learnt about tick formating in D3.js. Ran nested queries on company database consisting of 5 relations. Started reading Hands on Machine Learning with scikit learn and tensorflow by Aurélien	Géron. 
-**Thoughts:** Following the approcah of testing my knowledge through questions of the respective chapter(of the book) before going through it seems good. Date formating seems to be quite tricky for setting ticks of x-axis. 
+**Today's Progress**: Tweaked code of FCC bar chart project to pass tests. Learnt about tick formating in D3.js. Ran nested queries on company database consisting of 5 relations. Started reading Hands on Machine Learning with scikit learn and tensorflow by Aurélien	Géron.
+**Thoughts:** Following the approcah of testing my knowledge through questions of the respective chapter(of the book) before going through it seems good. Date formating seems to be quite tricky for setting ticks of x-axis.
+**Link to work:** https://codepen.io/abhi_code_life/full/OaPgaX
+
+### Day 4: February 7, 2019 
+**Today's Progress**: Formatted ticks of FCC barchart proect. the x axis required to have dates hence had to convert data recieved to Date object. Next up adding tooltip details. Continued with Book 2. Discussed minor project tech stack with team.
+**Thoughts:** Can't wait to resume kaggle.
 **Link to work:** https://codepen.io/abhi_code_life/full/OaPgaX
 

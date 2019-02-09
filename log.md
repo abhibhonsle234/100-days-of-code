@@ -33,3 +33,10 @@ Log: https://bit.ly/2GsN2YA
 **Thoughts:** Can't wait to resume kaggle.
 **Link to work:** https://codepen.io/abhi_code_life/full/OaPgaX
 
+### Day 5: February 8, 2019 
+**Today's Progress**: Passed all test for FCC barchart and submitted it. Next scatterplot project. This time i'll make it quick. Read 80 odd pages(from pg. 20 to 100) of Book 2. Will keep exact coun from now.
+**Thoughts:** Getting more consistent with every log!
+**Link to work:** https://codepen.io/abhi_code_life/full/OaPgaX
+
+
+

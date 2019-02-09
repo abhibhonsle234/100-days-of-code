@@ -15,7 +15,7 @@ Log: https://bit.ly/2GsN2YA
 
 ### Day 2: February 5, 2019 
 **Today's Progress**: Played around with sql queries using UNION and JOIN on company database made of charachters from the office. Added axis to the FCC bar chart project.  
-**Thoughts:** Have to find right way to tick format for the axis.
+**Thoughts:** Have to find right way to tick format for the axis.<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/OaPgaX
 
 ### Day 2: February 5, 2019 

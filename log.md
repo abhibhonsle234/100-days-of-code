@@ -38,5 +38,9 @@ Log: https://bit.ly/2GsN2YA
 **Thoughts:** Getting more consistent with every log!<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/OaPgaX
 
+### Day 6: February 9, 2019 
+**Today's Progress**: Participated in Serosoft Hackathon. Considering the prize money was 25000 and 10000, The competition was tough but we made it to top ten. The problem statement was of education domain and the constraints were good enough to be make you think again.<br>
+**Thoughts:** Had a jolly good time full of mood swings!<br>
+**Link to work:** https://bit.ly/2WRpHW2
 
 

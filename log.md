@@ -45,7 +45,7 @@ Log: https://bit.ly/2GsN2YA
 
 ### Day 7: February 10, 2019 
 **Today's Progress**: Got back to sql. Practiced triggers on company database. Read 50 pages (pg 101 to 149) of Book 2.<br>
-**Thoughts:** If i don't code satisfactory lines, I always will be hesitant to tweet it! Keep that in mind!<br>
+**Thoughts:** If i don't code satisfactory lines, I will always be hesitant to tweet it! Keep that in mind!<br>
 **Link to work:** 
 
 

@@ -48,4 +48,8 @@ Log: https://bit.ly/2GsN2YA
 **Thoughts:** If i don't code satisfactory lines, I will always be hesitant to tweet it! Keep that in mind!<br>
 **Link to work:** 
 
+### Day 8: February 11, 2019 
+**Today's Progress**: Started FCC scatter plot project. Discussed minor with project guide. Started revising book0. Also started excercise of book2.<br>
+**Thoughts:** ONE MINUTE RULE BEGINS TODAY!<br>
+**Link to work:** 
 

@@ -53,3 +53,8 @@ Log: https://bit.ly/2GsN2YA
 **Thoughts:** ONE MINUTE RULE BEGINS TODAY!<br>
 **Link to work:** 
 
+### Day 9: February 12, 2019 
+**Today's Progress**: Worked on scaling of dimensions and colors in FCC scatterplot project. Completed execise 1 of book2<br>
+**Thoughts:** faced issues with getting response data in form of json.<br>
+**Link to work:** https://codepen.io/abhi_code_life/full/OEjMeq
+

@@ -54,7 +54,12 @@ Log: https://bit.ly/2GsN2YA
 **Link to work:** 
 
 ### Day 9: February 12, 2019 
-**Today's Progress**: Worked on scaling of dimensions and colors in FCC scatterplot project. Completed execise 1 of book2<br>
+**Today's Progress**: Worked on scaling of dimensions and colors in FCC scatterplot project. Completed execise 2 of book2<br>
 **Thoughts:** faced issues with getting response data in form of json.<br>
+**Link to work:** https://codepen.io/abhi_code_life/full/OEjMeq
+
+### Day 10: February 13, 2019 
+**Today's Progress**: Tweaked code of my FCC scatter plot pen to meet test requirements. Adding Tooltip and legend would complete the same. Read 50 more pages(pg 149 to 199) of Book 2 also exercised chapter 3.<br>
+**Thoughts:** Kaggle station will arrive soon!<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/OEjMeq
 

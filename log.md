@@ -3,7 +3,7 @@
 ## Plan of action - not sure what to and what not to include here! 
 
 **Format for Tweet**:
-Day x/100: <description of work done in 3 lines>\n
+Day x/100: <description of work done in 3 lines>
 Link to work: <if required>
 Log: https://bit.ly/2GsN2YA
 #100DaysOfCode
@@ -63,3 +63,7 @@ Log: https://bit.ly/2GsN2YA
 **Thoughts:** Kaggle station will arrive soon!<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/OEjMeq
 
+### Day 11: February 14, 2019 
+**Today's Progress**: Completed Scatterplot with two test waiting to be passed. Well the example given on FCC does not passes the same two. Read 14 more pages(pg 200 to 213) of Book 2.<br>
+**Thoughts:** Next projects will take time have to make time for completing them quickly<br>
+**Link to work:** https://codepen.io/abhi_code_life/full/OEjMeq

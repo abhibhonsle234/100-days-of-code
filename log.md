@@ -67,3 +67,8 @@ Log: https://bit.ly/2GsN2YA
 **Today's Progress**: Completed Scatterplot with two test waiting to be passed. Well the example given on FCC does not passes the same two. Read 14 more pages(pg 200 to 213) of Book 2.<br>
 **Thoughts:** Next projects will take time have to make time for completing them quickly<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/OEjMeq
+
+### Day 12: February 15, 2019 
+**Today's Progress**: Submitted Scatterplot. Started heatmap project of FreeCodeCamp. Read 10 more pages(pg 214 to 224) of Book 2.<br>
+**Thoughts:** Have taken upon the challenge to complete book2 bby tomorrow!<br>
+**Link to work:** https://codepen.io/abhi_code_life/full/OEjMeq

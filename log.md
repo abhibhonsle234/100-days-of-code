@@ -72,3 +72,8 @@ Log: https://bit.ly/2GsN2YA
 **Today's Progress**: Submitted Scatterplot. Started heatmap project of FreeCodeCamp. Read 10 more pages(pg 214 to 224) of Book 2.<br>
 **Thoughts:** Have taken upon the challenge to complete book2 bby tomorrow!<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/OEjMeq
+
+### Day 13: February 16, 2019 
+**Today's Progress**: Added scales to HeatMap project. Read 51 more pages(pg 225 to 276) of Book 2.<br>
+**Thoughts:** The challenge could have been overly optimistic!<br>
+**Link to work:** https://codepen.io/abhi_code_life

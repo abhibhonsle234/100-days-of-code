@@ -74,6 +74,11 @@ Log: https://bit.ly/2GsN2YA
 **Link to work:** https://codepen.io/abhi_code_life/full/OEjMeq
 
 ### Day 13: February 16, 2019 
-**Today's Progress**: Added scales to HeatMap project. Read 51 more pages(pg 225 to 276) of Book 2.<br>
+**Today's Progress**: Worked on HeatMap project. Came up with an algorithm for variation in color, will implement the same.. Read 51 more pages(pg 225 to 276) of Book 2.<br>
 **Thoughts:** The challenge could have been overly optimistic!<br>
+**Link to work:** https://codepen.io/abhi_code_life
+
+### Day 14: February 18, 2019 
+**Today's Progress**: Scaling the heatmap is tricky, will need some built-ins if any of D3js.<br>
+**Thoughts:** Life happend! and I skipped a day, well made sure that I didn't skipped two<br>
 **Link to work:** https://codepen.io/abhi_code_life

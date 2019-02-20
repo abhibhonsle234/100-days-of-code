@@ -3,9 +3,9 @@
 ## Plan of action - not sure what to and what not to include here! 
 
 **Format for Tweet**:
-Day x/100: <description of work done in 3 lines>
-Link to work: <if required>
-Log: https://bit.ly/2GsN2YA
+Day x/100: <description of work done in 3 lines><br>
+Link to work: <if required><br>
+Log: https://bit.ly/2GsN2YA<br>
 #100DaysOfCode
 
 ### Day 1: February 4, 2019 
@@ -81,4 +81,9 @@ Log: https://bit.ly/2GsN2YA
 ### Day 14: February 18, 2019 
 **Today's Progress**: Scaling the heatmap is tricky, will need some built-ins if any of D3js.<br>
 **Thoughts:** Life happend! and I skipped a day, well made sure that I didn't skipped two<br>
+**Link to work:** https://codepen.io/abhi_code_life
+
+### Day 15: February 19, 2019 
+**Today's Progress**: Worked more on heatmap and practiced sql queries. Read 30 more pages(pg 277 to 306) of Book 2<br>
+**Thoughts:** need to study more about scaling and time formating in d3.<br>
 **Link to work:** https://codepen.io/abhi_code_life

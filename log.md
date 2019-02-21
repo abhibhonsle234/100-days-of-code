@@ -87,3 +87,8 @@ Log: https://bit.ly/2GsN2YA<br>
 **Today's Progress**: Worked more on heatmap and practiced sql queries. Read 30 more pages(pg 277 to 306) of Book 2<br>
 **Thoughts:** need to study more about scaling and time formating in d3.<br>
 **Link to work:** https://codepen.io/abhi_code_life
+
+### Day 16: February 20, 2019 
+**Today's Progress**: Almost donne with heatmap for FCC have to pass tests now. Also practices views in sql.<br>
+**Thoughts:** Book revision has to be fast forwarded now<br>
+**Link to work:** https://codepen.io/abhi_code_life

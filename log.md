@@ -89,6 +89,11 @@ Log: https://bit.ly/2GsN2YA<br>
 **Link to work:** https://codepen.io/abhi_code_life
 
 ### Day 16: February 20, 2019 
-**Today's Progress**: Almost donne with heatmap for FCC have to pass tests now. Also practices views in sql.<br>
+**Today's Progress**: Almost donne with heatmap for FCC have to pass tests now. Also practiced views in sql.<br>
 **Thoughts:** Book revision has to be fast forwarded now<br>
 **Link to work:** https://codepen.io/abhi_code_life
+
+### Day 17: February 21, 2019 
+**Today's Progress**: Slowing down work on heatmap for a while, will focus on SQL for a few days. Also fixed bugs on Simon Game<br>
+**Thoughts:** The end is neigh!<br>
+**Link to work:** https://codepen.io/abhi_code_life/full/aGaorW

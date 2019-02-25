@@ -102,3 +102,8 @@ Log: https://bit.ly/2GsN2YA<br>
 **Today's Progress**: Completed heat map project passed all tests and submitted it. Next up Chloropeth Map. Also read 113 pages(pg 307 to 419) of Book 2<br>
 **Thoughts:** I did worked on 22 but didn't code so decided not to tweet<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/jdoNKQ
+
+### Day 19: February 24, 2019 
+**Today's Progress**: Fixed the Drum machine project to align with tests. Learnt about topoJSON. Also revised 203 pages(1 to 202) of Book 1<br>
+**Thoughts:** I am finally getting a hold of things in ML<br>
+**Link to work:** https://codepen.io/abhi_code_life/full/gdGNey

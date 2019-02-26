@@ -107,3 +107,8 @@ Log: https://bit.ly/2GsN2YA<br>
 **Today's Progress**: Fixed the Drum machine project to align with tests. Learnt about topoJSON. Also revised 203 pages(1 to 202) of Book 1<br>
 **Thoughts:** I am finally getting a hold of things in ML<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/gdGNey
+
+### Day 20: February 25, 2019 
+**Today's Progress**: Started working on Chloropeth map. Binding data to map. Also revised 104 pages(203 to 307) of Book 1<br>
+**Thoughts:** Just a few days more<br>
+**Link to work:** https://codepen.io/abhi_code_life

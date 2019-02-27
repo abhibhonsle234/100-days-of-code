@@ -112,3 +112,8 @@ Log: https://bit.ly/2GsN2YA<br>
 **Today's Progress**: Started working on Chloropeth map. Binding data to map. Also revised 104 pages(203 to 307) of Book 1<br>
 **Thoughts:** Just a few days more<br>
 **Link to work:** https://codepen.io/abhi_code_life
+
+### Day 21: February 26, 2019 
+**Today's Progress**: Completed and submitted Chloropeth map project of FreeCodeCamp. Also revised 63 pages(131 to 193) of Book 0<br>
+**Thoughts:** ARHH!!!!!!!!<br>
+**Link to work:** https://codepen.io/abhi_code_life/full/eXOyKd

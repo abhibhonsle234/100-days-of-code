@@ -117,3 +117,9 @@ Log: https://bit.ly/2GsN2YA<br>
 **Today's Progress**: Completed and submitted Chloropeth map project of FreeCodeCamp. Also revised 63 pages(131 to 193) of Book 0<br>
 **Thoughts:** ARHH!!!!!!!!<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/eXOyKd
+
+### Day 22: February 27, 2019 
+**Today's Progress**: Ran SQL sequences and learned details of query optimization. Also revised 20 pages(194 to 213) of Book 0<br>
+**Thoughts:** It won't work this way dude<br>
+**Link to work:** 
+

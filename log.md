@@ -123,3 +123,12 @@ Log: https://bit.ly/2GsN2YA<br>
 **Thoughts:** It won't work this way dude<br>
 **Link to work:** 
 
+### Day 23: March 2, 2019 
+**Today's Progress**: Participated in CTL Cup organised by Codencious.AI Indore. The contest had two questions to be solved in 1 Hour. Solved the first one and partially solved the second. Spiked up for finals!<br>
+**Thoughts:** Finals would be a lot of fun, if we make it through<br>
+**Link to work:** 
+
+### Day 24: March 3, 2019 
+**Today's Progress**: Solved two questions of codechef March long challenge. Can't push code for now as it is a on going contest.<br>
+**Thoughts:** Weird stuff happening<br>
+**Link to work:** 

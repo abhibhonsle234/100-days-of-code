@@ -132,3 +132,13 @@ Log: https://bit.ly/2GsN2YA<br>
 **Today's Progress**: Solved two questions of codechef March long challenge. Can't push code for now as it is a on going contest.<br>
 **Thoughts:** Weird stuff happening<br>
 **Link to work:** 
+
+### Day 25: March 4, 2019 
+**Today's Progress**: Partially solved another question of Codechef march long challenge. Can't push code for now as it is a on going contest.<br>
+**Thoughts:** Save time for life and code<br>
+**Link to work:** 
+
+### Day 26: March 5, 2019 
+**Today's Progress**: Reduced complexity for the partially solved question of codechef March long challenge. Still could not get htrough the last test case. Need to reduce more complexity. <br>
+**Thoughts:** A bullet close to the  chest<br>
+**Link to work:** https://codepen.io/abhi_code_life/full/WJyded

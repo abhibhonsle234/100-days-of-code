@@ -142,3 +142,8 @@ Log: https://bit.ly/2GsN2YA<br>
 **Today's Progress**: Reduced complexity for the partially solved question of codechef March long challenge. Still could not get htrough the last test case. Need to reduce more complexity. <br>
 **Thoughts:** A bullet close to the  chest<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/WJyded
+
+### Day 27: March 6, 2019 
+**Today's Progress**: Participated in sql maestro a database design and managing competition organized by my seniors in college. My team of two did good. Bugged by the partially solved question at codechef march long challenge in my later day. Also revised 60 pages(pg 344 to 404) of book 0. <br>
+**Thoughts:** A bullet close to the  chest<br>
+**Link to work:** https://codepen.io/abhi_code_life/full/WJyded

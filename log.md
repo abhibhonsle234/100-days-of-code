@@ -146,4 +146,9 @@ Log: https://bit.ly/2GsN2YA<br>
 ### Day 27: March 6, 2019 
 **Today's Progress**: Participated in sql maestro a database design and managing competition organized by my seniors in college. My team of two did good. Bugged by the partially solved question at codechef march long challenge in my later day. Also revised 60 pages(pg 344 to 404) of book 0. <br>
 **Thoughts:** A bullet close to the  chest<br>
-**Link to work:** https://codepen.io/abhi_code_life/full/WJyded
+**Link to work:** 
+
+### Day 28: March 7, 2019 
+**Today's Progress**: Solved third question of march long challenge at codechef. The undescribed feeling of all green ticks!! Also read 20 pages(pg 420 to 439) of book 2. <br>
+**Thoughts:** Competion is what keeps me going<br>
+**Link to work:** 

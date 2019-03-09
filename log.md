@@ -152,3 +152,8 @@ Log: https://bit.ly/2GsN2YA<br>
 **Today's Progress**: Solved third question of march long challenge at codechef. The undescribed feeling of all green ticks!! Also read 20 pages(pg 420 to 439) of book 2. <br>
 **Thoughts:** Competion is what keeps me going<br>
 **Link to work:** 
+
+### Day 29: March 8, 2019 
+**Today's Progress**: Tried solving another question of march long challenge at codechef. Was a bit overwhelming and slightly out of comprehension. Revisited SQL query processing and B+ tree organisation for database. <br>
+**Thoughts:** Time to really kick in the gear<br>
+**Link to work:** 

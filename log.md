@@ -157,3 +157,8 @@ Log: https://bit.ly/2GsN2YA<br>
 **Today's Progress**: Tried solving another question of march long challenge at codechef. Was a bit overwhelming and slightly out of comprehension. Revisited SQL query processing and B+ tree organisation for database. <br>
 **Thoughts:** Time to really kick in the gear<br>
 **Link to work:** 
+
+### Day 29: March 11, 2019 
+**Today's Progress**: Did some web application programmming with JSP, servlets and JDBC on eclipse for an upcoming project<br>
+**Thoughts:** This schtik is really working<br>
+**Link to work:** 

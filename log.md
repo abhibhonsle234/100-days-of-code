@@ -158,7 +158,12 @@ Log: https://bit.ly/2GsN2YA<br>
 **Thoughts:** Time to really kick in the gear<br>
 **Link to work:** 
 
-### Day 29: March 11, 2019 
+### Day 30: March 11, 2019 
 **Today's Progress**: Did some web application programmming with JSP, servlets and JDBC on eclipse for an upcoming project<br>
 **Thoughts:** This schtik is really working<br>
+**Link to work:** 
+
+### Day 31: March 13, 2019 
+**Today's Progress**: with 3 questions solved march long challenge at codechef ended today. Went through the editorials understood and implemented concept of segment trees and partial sums<br>
+**Thoughts:** A little tough time<br>
 **Link to work:** 

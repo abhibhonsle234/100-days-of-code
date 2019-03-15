@@ -167,3 +167,8 @@ Log: https://bit.ly/2GsN2YA<br>
 **Today's Progress**: with 3 questions solved march long challenge at codechef ended today. Went through the editorials understood and implemented concept of segment trees and partial sums<br>
 **Thoughts:** A little tough time<br>
 **Link to work:** 
+
+### Day 32: March 14, 2019 
+**Today's Progress**: Participated in CTL cup finals organized by codecncious.ai Indore<br>
+**Thoughts:** The moment you are star struck<br>
+**Link to work:** 

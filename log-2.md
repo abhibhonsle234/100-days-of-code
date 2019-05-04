@@ -15,6 +15,6 @@ Log: http://bit.ly/log-2<br>
 #100DaysOfCode
 
 ### Day 1: May 3, 2019 
-**Today's Progress**: Was out sick, #100DaysOfCode round 1 ended after 32 days. Commiting to round 2. Completed freecodecamp d3 visualizations projects. Check out tree maps<br>  
-**Thoughts:** Had to read about almost every project for this certifications<br>
+**Today's Progress**: Was out sick, #100DaysOfCode round 1 ended after 32 days. Commiting to round 2. Completed freecodecamp d3 visualizations projects. Check out tree maps
+**Thoughts:** Had to read about almost every project for this certification<br>
 **Link to work:** https://codepen.io/abhi_code_life/full/MRVPJX

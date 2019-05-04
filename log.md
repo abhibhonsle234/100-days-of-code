@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ## Plan of action - not sure what to and what not to include here! 
+## round 1 ENDED on 14th March 2019 after 32 days.
 
 **Format for Tweet**:
 Day x/100: <description of work done in 3 lines><br>

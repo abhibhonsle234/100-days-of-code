@@ -22,4 +22,9 @@ Log: http://bit.ly/log-2<br>
 ### Day 2: May 5, 2019 
 **Today's Progress**: Solved one question of may long challenge on codechef. Competitive programming pushes you to think fresh<br>
 **Thoughts:** Its a low count challenge this one<br>
-**Link to work:** 
+**Link to work:**
+
+### Day 3: May 10, 2019 
+**Today's Progress**: Working on freecodecamp API and Microservices challenges. Will be learning basics of node.js and express through this.<br>
+**Thoughts:** Will be regulary updating the challenge from today<br>
+**Link to work:** https://gleaming-parenthesis.glitch.me

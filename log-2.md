@@ -33,3 +33,8 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Worked on node.js and express challenges on freecodecamp. learned about routing with express as middleware and passing data as json object.<br>
 **Thoughts:** Will get on track today!<br>
 **Link to work:** https://bouncy-sprite.glitch.me
+
+### Day 5: May 12, 2019 
+**Today's Progress**: Completed node.js and express basic challenges on freecodecamp. Learned about passing secrets with .env files, routing method handling, and body-parsing.<br>
+**Thoughts:** Last chance!<br>
+**Link to work:** https://bouncy-sprite.glitch.me

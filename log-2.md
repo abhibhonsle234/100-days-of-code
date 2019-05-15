@@ -38,3 +38,8 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Completed node.js and express basic challenges on freecodecamp. Learned about passing secrets with .env files, routing method handling, and body-parsing.<br>
 **Thoughts:** Last chance!<br>
 **Link to work:** https://bouncy-sprite.glitch.me
+
+### Day 6: May 14, 2019 
+**Today's Progress**: Completed mongoDB and mongoose challenges on freecodecamp. Learned about models, documents and performing CRUD operations in mongoose. On to the projects now.<br>
+**Thoughts:** Better give up!<br>
+**Link to work:** https://bouncy-sprite.glitch.me

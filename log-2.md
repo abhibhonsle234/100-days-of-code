@@ -43,3 +43,8 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Completed mongoDB and mongoose challenges on freecodecamp. Learned about models, documents and performing CRUD operations in mongoose. On to the projects now.<br>
 **Thoughts:** Better give up!<br>
 **Link to work:** https://bouncy-sprite.glitch.me
+
+### Day 7: May 15, 2019 
+**Today's Progress**: Completed time stamp service project under api and microservices for freecodecamp. Also solved some practice questions on codechef. 
+**Thoughts:** Can do it! 1 day conquered<br>
+**Link to work:** https://iris-euphonium.glitch.me

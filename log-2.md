@@ -46,5 +46,10 @@ Log: http://bit.ly/log-2<br>
 
 ### Day 7: May 15, 2019 
 **Today's Progress**: Completed time stamp service project under api and microservices for freecodecamp. Also solved some practice questions on codechef. 
-**Thoughts:** Can do it! 1 day conquered<br>
+**Thoughts:** Can do it! day 1 conquered<br>
 **Link to work:** https://iris-euphonium.glitch.me
+
+### Day 8: May 16, 2019 
+**Today's Progress**: Completed API Project: Request Header Parser Microservice for freeCodeCamp. Also attempted practice question on topcoder. 
+**Thoughts:** I am on it now! day 2 conquered<br>
+**Link to work:** https://wool-trumpet.glitch.me

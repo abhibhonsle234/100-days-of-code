@@ -53,3 +53,8 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Completed API Project: Request Header Parser Microservice for freeCodeCamp. Also attempted practice question on topcoder. 
 **Thoughts:** I am on it now! day 2 conquered<br>
 **Link to work:** https://wool-trumpet.glitch.me
+
+### Day 9: May 17, 2019 
+**Today's Progress**: Completed API Project: URL Shortner Microservice for freeCodeCamp. Studied about the dns core module of nodejs for the same. 
+**Thoughts:** Hardden yourself! day 3 conquered<br>
+**Link to work:** https://ubiquitous-parka.glitch.me

@@ -58,3 +58,8 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Completed API Project: URL Shortner Microservice for freeCodeCamp. Studied about the dns core module of nodejs for the same. 
 **Thoughts:** Hardden yourself! day 3 conquered<br>
 **Link to work:** https://ubiquitous-parka.glitch.me
+
+### Day 10: May 18, 2019 
+**Today's Progress**: Worked on API Project: Exercise tracker for freecodecamp. Went through an editorial on top coder and solved the problem.  
+**Thoughts:** Be accurate! day 4 conquered<br>
+**Link to work:** 

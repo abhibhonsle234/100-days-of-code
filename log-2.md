@@ -62,4 +62,9 @@ Log: http://bit.ly/log-2<br>
 ### Day 10: May 18, 2019 
 **Today's Progress**: Worked on API Project: Exercise tracker for freecodecamp. Went through an editorial on top coder and solved the problem.  
 **Thoughts:** Be accurate! day 4 conquered<br>
-**Link to work:** 
+**Link to work:**
+
+### Day 11: May 19, 2019 
+**Today's Progress**: Completed on API Project: Exercise tracker and File Metadata Microservice for freecodecamp. Solved a problem related to prime numbers on topcoder.  
+**Thoughts:** Pace It! day 5 conquered<br>
+**Link to work:** https://accidental-sagittarius.glitch.me

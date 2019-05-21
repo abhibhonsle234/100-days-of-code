@@ -72,5 +72,5 @@ Log: http://bit.ly/log-2<br>
 
 ### Day 12: May 20, 2019 
 **Today's Progress**: Completed API and Microservices certification from freecodecamp. Solved a question on prime numbers and breadth first search on codechef  
-**Thoughts:** Can only miss a day<br>
+**Thoughts:** Can't miss two days in a row<br>
 **Link to work:** https://wool-discovery.glitch.me

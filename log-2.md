@@ -69,8 +69,12 @@ Log: http://bit.ly/log-2<br>
 **Thoughts:** Pace It! day 5 conquered<br>
 **Link to work:** https://accidental-sagittarius.glitch.me
 
-
 ### Day 12: May 20, 2019 
 **Today's Progress**: Completed API and Microservices certification from freecodecamp. Solved a question on prime numbers and breadth first search on codechef  
 **Thoughts:** Can't miss two days in a row<br>
 **Link to work:** https://wool-discovery.glitch.me
+
+### Day 13: May 23, 2019 
+**Today's Progress**: Completed Information Security with Helmetjs challenges at freecodecamp.  
+**Thoughts:** WTH<br>
+**Link to work:** https://slash-license.glitch.me

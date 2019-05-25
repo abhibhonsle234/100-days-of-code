@@ -78,3 +78,8 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Completed Information Security with Helmetjs challenges at freecodecamp.  
 **Thoughts:** WTH<br>
 **Link to work:** https://slash-license.glitch.me
+
+### Day 14: May 24, 2019 
+**Today's Progress**: Completed Quality Assurance with Chai Challenges on freecodecamp. Learnt using assertions in chai for testing and headless browsing with zombiejs.  
+**Thoughts:** There is a hell believe me i've seen it there is a heaven lets keep it a secret!<br>
+**Link to work:** https://slash-license.glitch.me

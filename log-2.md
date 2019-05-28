@@ -83,3 +83,8 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Completed Quality Assurance with Chai Challenges on freecodecamp. Learnt using assertions in chai for testing and headless browsing with zombiejs.  
 **Thoughts:** There is a hell believe me i've seen it there is a heaven lets keep it a secret!<br>
 **Link to work:** https://slash-license.glitch.me
+
+### Day 15: May 27, 2019 
+**Today's Progress**: Did some challenges of advance node and express on freecodecamp. Learnt using express-session and templating with pug. 
+**Thoughts:** Time Brother!<br>
+**Link to work:** 

@@ -87,4 +87,14 @@ Log: http://bit.ly/log-2<br>
 ### Day 15: May 27, 2019 
 **Today's Progress**: Did some challenges of advance node and express on freecodecamp. Learnt using express-session and templating with pug. 
 **Thoughts:** Time Brother!<br>
-**Link to work:** 
+**Link to work:**
+
+### Day 16: May 31, 2019 
+**Today's Progress**: Worked on more challenges of advance node and express on freecodecamp. Learned serialization and authentication with passport-local package. 
+**Thoughts:** Momentous<br>
+**Link to work:**
+
+### Day 17: June 1, 2019 
+**Today's Progress**: Worked on more challenges of advance node and express on freecodecamp. Learned passport strategies and logging in and out a user. 
+**Thoughts:** changing to weekly tweets<br>
+**Link to work:**

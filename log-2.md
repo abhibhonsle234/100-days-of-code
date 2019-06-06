@@ -108,3 +108,8 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Implemented some backtracking algorithms like permutation genration. Tried editing it to get distinct permutations. 
 **Thoughts:** Reserving this section for my quotes!<br>
 **Link to work:**
+
+### Day 20: June 5, 2019 
+**Today's Progress**: Finally solved primeAnagrams problem frommcodechef. Involved backtracking and prime number manipulation.
+**Thoughts:** Its a matter of just two steps everyday towards your goal<br>
+**Link to work:**

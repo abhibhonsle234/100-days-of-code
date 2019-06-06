@@ -98,3 +98,13 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Worked on more challenges of advance node and express on freecodecamp. Learned passport strategies and logging in and out a user. 
 **Thoughts:** changing to weekly tweets<br>
 **Link to work:**
+
+### Day 18: June 3, 2019 
+**Today's Progress**: Worked on more challenges of advance node and express on freecodecamp. Learned profiling and authorization. 
+**Thoughts:** But update log daily<br>
+**Link to work:**
+
+### Day 19: June 4, 2019 
+**Today's Progress**: Implemented some backtracking algorithms like permutation genration. Tried editing it to get distinct permutations. 
+**Thoughts:** Reserving this section for my quotes!<br>
+**Link to work:**

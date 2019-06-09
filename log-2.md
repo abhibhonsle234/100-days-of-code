@@ -110,6 +110,16 @@ Log: http://bit.ly/log-2<br>
 **Link to work:**
 
 ### Day 20: June 5, 2019 
-**Today's Progress**: Finally solved primeAnagrams problem frommcodechef. Involved backtracking and prime number manipulation.
+**Today's Progress**: Finally solved primeAnagrams problem on topcoder. Involved backtracking and prime number manipulation.
 **Thoughts:** Its a matter of just two steps everyday towards your goal<br>
+**Link to work:**
+
+### Day 21: June 7, 2019 
+**Today's Progress**: Solved two problems from june long challenge at codechef. 
+**Thoughts:** A healthy plant needs nourishment<br>
+**Link to work:**
+
+### Day 22: June 8, 2019 
+**Today's Progress**: Solved one more question from june long challenge at codechef and partially solved another.
+**Thoughts:** Patience my boy! key to solutions<br>
 **Link to work:**

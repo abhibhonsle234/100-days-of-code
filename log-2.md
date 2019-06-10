@@ -123,3 +123,8 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Solved one more question from june long challenge at codechef and partially solved another.
 **Thoughts:** Patience my boy! key to solutions<br>
 **Link to work:**
+
+### Day 23: June 9, 2019 
+**Today's Progress**: Tried solving the fourth question from june long challenge at codechef. Could not get through last test cases.
+**Thoughts:** Will be thhere to face the upstream<br>
+**Link to work:**

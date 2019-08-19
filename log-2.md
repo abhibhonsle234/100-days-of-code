@@ -128,3 +128,33 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Tried solving the fourth question from june long challenge at codechef. Could not get through last test cases.
 **Thoughts:** Will be thhere to face the upstream<br>
 **Link to work:**
+
+### Day 24: June 10, 2019 
+**Today's Progress**: I am positive that i have solved the fourth question but stuck with modular arithematic!!
+**Thoughts:** <br>
+**Link to work:**
+
+### Day 25: June 11, 2019 
+**Today's Progress**: Started learning django. Will be making a blogging website in the process. 
+**Thoughts:** <br>
+**Link to work:**
+
+### Day 26: June 12, 2019 
+**Today's Progress**: Started think stats for inferential statistics using python. Learned basics of MVT for Django.
+**Thoughts:** <br>
+**Link to work:**
+
+### Day 27: June 13, 2019 
+**Today's Progress**: Started think stats for inferential statistics using python. Learned basics of MVT for Django.
+**Thoughts:** <br>
+**Link to work:**
+
+### Day 28: June 13, 2019 
+**Today's Progress**: Continued with thinkStats. Learned percentile analysis. Worked with views and url routing in Django
+**Thoughts:** <br>
+**Link to work:**
+
+### Day 28: June 13, 2019 
+**Today's Progress**: Continued with thinkStats. Learned percentile analysis. Worked with views and url routing in Django
+**Thoughts:** <br>
+**Link to work:**

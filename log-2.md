@@ -453,7 +453,17 @@ Log: http://bit.ly/log-2<br>
 **Thoughts:** <br>
 **Link to work:**
 
-### Day 87: August 18, 2019 
+### Day 88: August 18, 2019 
 **Today's Progress**: Appeared for online test for Goldman Sachs. Solved a problem based on division with bitwise operators and partially solved one about optimized sieve of eratosthenes 
  **Thoughts:** <br>
 **Link to work:**
+
+### Day 89: August 19, 2019 
+**Today's Progress**: Started working on admition acceptance prediction for PG. Quite interesting data set, had to come up with interesting questions too. 
+ **Thoughts:** <br>
+**Link to work:**
+
+### Day 90: August 19, 2019 
+**Today's Progress**: Did some final commits for the first version of kernel on kaggle. 
+ **Thoughts:** <br>
+**Link to work:** https://www.kaggle.com/abhishekbhonsle/beer-consumption-in-sao-paulo

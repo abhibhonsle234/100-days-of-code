@@ -13,3 +13,8 @@ Day x/100: <description of work done in 3 lines><br>
 Link to work: <if required><br>
 Log: http://bit.ly/log-2<br>
 #100DaysOfCode
+  
+### Day 1: May 3, 2019 
+**Today's Progress**: <br>
+**Thoughts:** <br>
+**Link to work:** 

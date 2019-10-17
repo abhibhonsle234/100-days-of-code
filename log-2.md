@@ -467,3 +467,65 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress**: Did some final commits for the first version of kernel on kaggle. 
  **Thoughts:** <br>
 **Link to work:** https://www.kaggle.com/abhishekbhonsle/beer-consumption-in-sao-paulo
+
+### Day 91: August 20, 2019 
+**Today's Progress**: Worked locally for the next version on kernel. 
+ **Thoughts:** <br>
+**Link to work:** https://www.kaggle.com/abhishekbhonsle/beer-consumption-in-sao-paulo
+
+### Day 92: August 21, 2019 
+**Today's Progress**: Started with Natural Language Processing with Python by steven bird. Learned about first to know operations with NLTK libraray. 
+ **Thoughts:** <br>
+**Link to work:** 
+
+### Day 93: August 22, 2019 
+**Today's Progress**: Went through exercises for chapter one of natural language processing with python by staven bird. 
+ **Thoughts:** <br>
+**Link to work:** will push exercies to github once done with the whole book.
+
+### Day 94: August 23, 2019 
+**Today's Progress**: Started with chapter 2 operations included cumulutive distributive plots, n-grams, and frequency plots etc. 
+ **Thoughts:** <br>
+**Link to work:** will push exercies to github once done with the whole book.
+
+### Day 95: August 24, 2019 
+**Today's Progress**: learned how to access lexical resources and operations. 
+ **Thoughts:** <br>
+**Link to work:** will push exercies to github once done with the whole book.
+
+### Day 95: August 24, 2019 
+**Today's Progress**: Went through exercises for chapter two of natural language processing with python by staven bird. 
+ **Thoughts:** <br>
+**Link to work:** will push exercies to github once done with the whole book.
+
+### Day 96: August 25, 2019 
+**Today's Progress**: Continued exercises for chapter two of natural language processing with python by staven bird. 
+ **Thoughts:** <br>
+**Link to work:** will push exercies to github once done with the whole book.
+
+### Day 96: August 26, 2019 
+**Today's Progress**: Appeared for interview for system engineer specialist with Infosys at RGPV Bhopal. Went smoothly. was asked to write sieve for prime numbers, rest api processnig in django framework among theoretical questions.
+ **Thoughts:** <br>
+**Link to work:** 
+
+### Day 97: August 27, 2019 
+**Today's Progress**: Went back to classical dp problems from geeks for geeks. Started chapter 3 for Natural Language Processing by steven bird. Proceesiing raw text files from local storage and performing sam operations after structuring.
+ **Thoughts:** <br>
+**Link to work:** will push exercies to github once done with the whole book.
+
+### Day 98: August 28, 2019 
+**Today's Progress**: Started preparing for codechef certification exam scheduled for 22nd sept 2019. Have to practice greedy problems in the coming week from prepare section. solved two problems today
+ **Thoughts:** <br>
+**Link to work:** will push my solutions of the prepare section after certification exam
+
+### Day 99: August 29, 2019 
+**Today's Progress**: Continued chapter three of natural language processing with python by staven bird. Solved two more problems from prepare section of CCDSAP at codechef.
+ **Thoughts:** <br>
+**Link to work:** will push my solutions of the prepare section after certification exam
+
+### Day 100: August 30, 2019 
+**Today's Progress**: Continued chapter three of natural language processing with python by staven bird. Solved two more problems from prepare section of CCDSAP at codechef.
+ **Thoughts:** <br>
+**Link to work:** will push my solutions of the prepare section after certification exam
+
+## Completed for the first time on my second atempt! Will start with #100 DaysOfMLCode in october.

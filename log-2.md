@@ -30,7 +30,7 @@ Log: http://bit.ly/log-2<br>
 **Link to work:** https://gleaming-parenthesis.glitch.me
 
 ### Day 4: May 11, 2019 
-**Today's Progress**: Worked on node.js and express challenges on freecodecamp. learned about routing with express as middleware and passing data as json object.<br>
+**Today's Progress**: Worked on node.js and express challenges on freecodecamp. learned about routing with express as middleware and passing data as json object<br>
 **Thoughts:** Will get on track today!<br>
 **Link to work:** https://bouncy-sprite.glitch.me
 

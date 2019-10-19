@@ -16,7 +16,7 @@ Link to work: <if required><br>
 Log: http://bit.ly/log-2<br>
 #100DaysOfCode
   
-### Day 1: Oct 18, 2019 
+### Day 1: Oct 19, 2019 
 **Today's Progress:** <br>
 **Thoughts:** <br>
 **Link to work:**

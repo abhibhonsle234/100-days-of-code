@@ -1,6 +1,6 @@
 # 100 Days Of ML Code - Log
 
-## ROUND - 2
+## ROUND - 1
 
 ## Milestones to deliver - 
 #### Legend - Completed -> (C) Incomplete -> (IC)

@@ -19,10 +19,15 @@ Log: http://bit.ly/log-2<br>
   
 ### Day 1: Oct 19, 2019 
 **Today's Progress:** Went through first chapter of book5. Refreshed operations with ipython on jupyter notebook. Did EDA and validation assignments and quizes on coursera HWDC.<br>
-**Thoughts:** restricting yourself doing just one thing is a bit difficult<br>
+**Thoughts:** restricting yourself to doing just one thing is a bit difficult<br>
 **Link to work:** will push my own repo for Book5
 
 ### Day 2: Oct 20, 2019 
+**Today's Progress:** Completed peer graded assignment for week 2 of HWDC on data leakages. went through second chpter of book 5. Refereshed operations with numpy including basics, ufuncs, aggregations, slicing, and spliting etc.<br>
+**Thoughts:** Move to something incredible requires doind things more incredibly<br>
+**Link to work:** will push my own repo for book 5 soon and HWDC once completed
+
+### Day 3: Oct 21, 2019 
 **Today's Progress:**<br>
 **Thoughts:** <br>
 **Link to work:**

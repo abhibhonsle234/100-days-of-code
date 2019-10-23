@@ -28,6 +28,11 @@ Log: http://bit.ly/log-2<br>
 **Link to work:** will push my own repo for book 5 soon and HWDC once completed
 
 ### Day 3: Oct 21, 2019 
-**Today's Progress:**<br>
-**Thoughts:** <br>
-**Link to work:**
+**Today's Progress:** Completed chapter 1 exercises of book 2 on pipelining. Completed chapter 2 of book 5. advanced numpy operations<br>
+**Thoughts:** keep pushing that threshold<br>
+**Link to work:** will push my own repo for book 5 soon
+
+### Day 4: Oct 22, 2019 
+**Today's Progress:** Went through chapter 3 of book 5. Basic pandas series and dataframe operations- creation, indexing, slicing, ufuncs<br>
+**Thoughts:** Adjust to the speed of life<br>
+**Link to work:** will push my own repo for book 5 soon

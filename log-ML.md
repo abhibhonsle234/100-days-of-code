@@ -43,6 +43,12 @@ Log: http://bit.ly/log-2<br>
 **Link to work:** will push my own repo for book 5 soon
 
 ### Day 6: Oct 25, 2019 
+**Today's Progress:** Completed chapter 3 of book 5. Worked with combining datasets, aggregating with groupby operations, pvot tables, vectorized string operations and time series data. Did programming assignment for week 3 of HWDC about metrics optimization. <br>
+**Thoughts/Quote:** Being laconic about things will be some power to thought<br>
+**Link to work:** will push my own repo for book 5 on 1 nov.
+
+### Day 7: Oct 26, 2019 
 **Today's Progress:** <br>
 **Thoughts/Quote:** <br>
 **Link to work:** 
+

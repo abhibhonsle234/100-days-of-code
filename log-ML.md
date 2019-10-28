@@ -48,7 +48,11 @@ Log: http://bit.ly/log-2<br>
 **Link to work:** will push my own repo for book 5 on 1 nov.
 
 ### Day 7: Oct 26, 2019 
+**Today's Progress:** Went through chapter 4 of book 5. Worked with matplotlib two interfacing, simple plots, error ploting, density plots, histograms, and cutommizing legends and colorbars.<br>
+**Thoughts/Quote:** What dwells within the venerated expertise of knowledge?<br>
+**Link to work:** will push my own repo for boook 5 on 1 nov.
+
+### Day 8: Oct 28, 2019 
 **Today's Progress:** <br>
 **Thoughts/Quote:** <br>
-**Link to work:** 
-
+**Link to work:** will push my own repo for boook 5 on 1 nov.

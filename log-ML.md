@@ -53,6 +53,6 @@ Log: http://bit.ly/log-2<br>
 **Link to work:** will push my own repo for boook 5 on 1 nov.
 
 ### Day 8: Oct 28, 2019 
-**Today's Progress:** <br>
+**Today's Progress:** Completed chapter 4 of book 5. Worked with matplotlib customizing ticks, scales, 2d plots, annotations, 3d plots and seaborn operations.<br>
 **Thoughts/Quote:** <br>
 **Link to work:** will push my own repo for boook 5 on 1 nov.

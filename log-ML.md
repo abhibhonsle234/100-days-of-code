@@ -17,42 +17,52 @@ Link to work: <if required><br>
 Log: http://bit.ly/log-2<br>
 #100DaysOfCode
   
-### Day 1: Oct 19, 2019 
+### Day 1: Nov 3, 2019 
 **Today's Progress:** Went through first chapter of book5. Refreshed operations with ipython on jupyter notebook. Did EDA and validation assignments and quizes on coursera HWDC.<br>
 **Thoughts:** restricting yourself to doing just one thing is a bit difficult<br>
 **Link to work:** will push my own repo for Book5
 
-### Day 2: Oct 20, 2019 
+### Day 2: Nov 4, 2019 
 **Today's Progress:** Completed peer graded assignment for week 2 of HWDC on data leakages. went through second chpter of book 5. Refereshed operations with numpy including basics, ufuncs, aggregations, slicing, and spliting etc.<br>
 **Thoughts:** Move to something incredible requires doind things more incredibly<br>
 **Link to work:** will push my own repo for book 5 soon and HWDC once completed
 
-### Day 3: Oct 21, 2019 
+### Day 3: Nov 5, 2019 
 **Today's Progress:** Completed chapter 1 exercises of book 2 on pipelining. Completed chapter 2 of book 5. advanced numpy operations<br>
 **Thoughts:** keep pushing that threshold<br>
 **Link to work:** will push my own repo for book 5 soon
 
-### Day 4: Oct 22, 2019 
+### Day 4: Nov 6, 2019 
 **Today's Progress:** Went through chapter 3 of book 5. Basic pandas series and dataframe operations- creation, indexing, slicing, ufuncs<br>
 **Thoughts:** Adjust to the speed of life<br>
 **Link to work:** will push my own repo for book 5 soon
 
-### Day 5: Oct 24, 2019 
+### Day 5: Nov 7, 2019 
 **Today's Progress:** Went through chapter 3 of book 5. worked with missing data and multi-index.<br>
 **Thoughts/Quote:** This has become rather innocuous as the days pass by.<br>
 **Link to work:** will push my own repo for book 5 soon
 
-### Day 6: Oct 25, 2019 
+### Day 6: Nov 8, 2019 
 **Today's Progress:** Completed chapter 3 of book 5. Worked with combining datasets, aggregating with groupby operations, pvot tables, vectorized string operations and time series data. Did programming assignment for week 3 of HWDC about metrics optimization. <br>
 **Thoughts/Quote:** Being laconic about things will be some power to thought<br>
-**Link to work:** will push my own repo for book 5 on 1 nov.
+**Link to work:** will push my own repo for book 5 on 12 nov.
 
-### Day 7: Oct 26, 2019 
+### Day 7: Nov 9, 2019 
 **Today's Progress:** Went through chapter 4 of book 5. Worked with matplotlib two interfacing, simple plots, error ploting, density plots, histograms, and cutommizing legends and colorbars.<br>
 **Thoughts/Quote:** What dwells within the venerated expertise of knowledge?<br>
-**Link to work:** will push my own repo for boook 5 on 1 nov.
+**Link to work:** will push my own repo for boook 5 on 12 nov.
 
-### Day 8: Oct 28, 2019 
+### Day 8: Nov 10, 2019 
 **Today's Progress:** Completed chapter 4 of book 5. Worked with matplotlib customizing ticks, scales, 2d plots, annotations, 3d plots and seaborn operations.<br>
-**Thoughts/Quote:** <br>
-**Link to work:** will push my own repo for boook 5 on 1 nov.
+**Thoughts/Quote:** In the hope to not get lost in the signals of gall castigation of oneself<br>
+**Link to work:** will push my own repo for boook 5 on 12 nov.
+
+### Day 9: Nov 11, 2019 
+**Today's Progress:** Went through chapter 5 of book 5. All about scikit learn basic - model pipelining, evaluation, cross validation, feature enginnering.<br>
+**Thoughts/Quote:** To not be banal is the motive today<br>
+**Link to work:** will push my own repo for boook 5 on 12 nov.
+
+### Day 10: Nov 12, 2019 
+**Today's Progress:** Completed chapter 5 of book 5 and thus the book. Extensive learning today with sckitlearn indepth for  - supervised and unsupervised learning in - Linear regression, svms, decission trees, random forest, knn, kmeans, pca, tsne, lle, gmms, and kdes. hence, over with revision of what all i have learned till now.<br>
+**Thoughts/Quote:** Geting together the will to convert what are the ashes to a base to jump.<br>
+**Link to work:** https://github.com/abhibhonsle234/PythonDataScienceHandbook/tree/master/Chpterwise%20Notebooks

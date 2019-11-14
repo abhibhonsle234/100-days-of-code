@@ -66,3 +66,13 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress:** Completed chapter 5 of book 5 and thus the book. Extensive learning today with sckitlearn indepth for  - supervised and unsupervised learning in - Linear regression, svms, decission trees, random forest, knn, kmeans, pca, tsne, lle, gmms, and kdes. hence, over with revision of what all i have learned till now.<br>
 **Thoughts/Quote:** Geting together the will to convert what are the ashes to a base to jump.<br>
 **Link to work:** https://github.com/abhibhonsle234/PythonDataScienceHandbook/tree/master/Chpterwise%20Notebooks
+
+### Day 11: Nov 13, 2019 
+**Today's Progress:** crossed week 4 of HWDC and did programming quiz of week 5 - mean encodings, hyperparameter tuning. Also started with graduation_submission dataset on kaggle.<br>
+**Thoughts/Quote:** How you tackle the moments which exacerbate your efforts will flip the coin for sucess/failure<br>
+**Link to work:** will create repo for kaggle datasets.
+
+### Day 12: Nov 14, 2019 
+**Today's Progress:** <br>
+**Thoughts/Quote:** <br>
+**Link to work:**

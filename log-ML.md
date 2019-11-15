@@ -73,6 +73,11 @@ Log: http://bit.ly/log-2<br>
 **Link to work:** will create repo for kaggle datasets.
 
 ### Day 12: Nov 14, 2019 
+**Today's Progress:** Read kernels for graduate_submission dataset on kaggle and formulated ideas for EDA. <br>
+**Thoughts/Quote:** The will knows what it will do<br>
+**Link to work:** will create repo for kaggle datasets.
+
+### Day 13: Nov 15, 2019 
 **Today's Progress:** <br>
 **Thoughts/Quote:** <br>
 **Link to work:**

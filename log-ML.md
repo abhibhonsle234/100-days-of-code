@@ -78,6 +78,11 @@ Log: http://bit.ly/log-2<br>
 **Link to work:** will create repo for kaggle datasets.
 
 ### Day 13: Nov 15, 2019 
+**Today's Progress:** Performed baseline predictions on graduate_submission dataset. Couldn't get much done due to tomorrow's end sem exam <br>
+**Thoughts/Quote:** Once used to to anything banal would be motivating<br>
+**Link to work:** will create repo for kaggle datasets
+
+### Day 14: Nov 16, 2019 
 **Today's Progress:** <br>
 **Thoughts/Quote:** <br>
 **Link to work:**

@@ -83,7 +83,7 @@ Log: http://bit.ly/log-2<br>
 **Link to work:** will create repo for kaggle datasets
 
 ### Day 14: Nov 17, 2019 
-**Today's Progress:** Did programming assignment week 4, HWDC, feature generatoin with KNN. Also learned advanced feature generatoin with feature interactions, and tSNE<br>
+**Today's Progress:** Did programming assignment week 4, HWDC, feature generatoin with KNN. Also learned advanced feature generatoin with feature interactions, matrix factorizatoin, and tSNE<br>
 **Thoughts/Quote:** If its vilified its most probably true to the extent that it will push you<br>
 **Link to work:**
 

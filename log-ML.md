@@ -68,7 +68,7 @@ Log: http://bit.ly/log-2<br>
 **Link to work:** https://github.com/abhibhonsle234/PythonDataScienceHandbook/tree/master/Chpterwise%20Notebooks
 
 ### Day 11: Nov 13, 2019 
-**Today's Progress:** crossed week 4 of HWDC and did programming quiz of week 5 - mean encodings, hyperparameter tuning. Also started with graduation_submission dataset on kaggle.<br>
+**Today's Progress:** crossed week 3 of HWDC and did programming quiz of week 4 - mean encodings, hyperparameter tuning. Also started with graduation_submission dataset on kaggle.<br>
 **Thoughts/Quote:** How you tackle the moments which exacerbate your efforts will flip the coin for sucess/failure<br>
 **Link to work:** will create repo for kaggle datasets.
 
@@ -82,7 +82,12 @@ Log: http://bit.ly/log-2<br>
 **Thoughts/Quote:** Once used to to anything banal would be motivating<br>
 **Link to work:** will create repo for kaggle datasets
 
-### Day 14: Nov 16, 2019 
+### Day 14: Nov 17, 2019 
+**Today's Progress:** Did programming assignment week 4, HWDC, feature generatoin with KNN. Also learned advanced feature generatoin with feature interactions, and tSNE<br>
+**Thoughts/Quote:** If its vilified its most probably true to the extent that it will push you<br>
+**Link to work:**
+
+### Day 15: Nov 18, 2019 
 **Today's Progress:** <br>
 **Thoughts/Quote:** <br>
 **Link to work:**

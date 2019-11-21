@@ -83,11 +83,16 @@ Log: http://bit.ly/log-2<br>
 **Link to work:** will create repo for kaggle datasets
 
 ### Day 14: Nov 17, 2019 
-**Today's Progress:** Did programming assignment week 4, HWDC, feature generatoin with KNN. Also learned advanced feature generatoin with feature interactions, matrix factorizatoin, and tSNE<br>
+**Today's Progress:** Did programming assignment week 4, HWDC, feature generation with KNN. Also learned advanced feature generatoin with feature interactions, matrix factorizatoin, and tSNE<br>
 **Thoughts/Quote:** If its vilified its most probably true to the extent that it will push you<br>
 **Link to work:**
 
 ### Day 15: Nov 18, 2019 
-**Today's Progress:** <br>
-**Thoughts/Quote:** <br>
+**Today's Progress:** Did programming assignment week 4, HWDC, ensembling models and catboost basics. Worked with stacking diverse models and carrying out meta Out-Of-Foldvalidation<br>
+**Thoughts/Quote:** A billigerent urge to revolt subsides<br>
+**Link to work:**
+
+### Day 16: Nov 20, 2019 
+**Today's Progress:** Worked more with ensembling models. Solved quiz for the same for HWDC. Started work on final project for HWDC<br>
+**Thoughts/Quote:** The stairs are a spiral with steep angles and sharp turns<br>
 **Link to work:**

@@ -96,3 +96,18 @@ Log: http://bit.ly/log-2<br>
 **Today's Progress:** Worked more with ensembling models. Solved quiz for the same for HWDC. Started work on final project for HWDC<br>
 **Thoughts/Quote:** The stairs are a spiral with steep angles and sharp turns<br>
 **Link to work:**
+
+### Day 17: Nov 23, 2019 
+**Today's Progress:** Worked more on final project for HWDC<br>
+**Thoughts/Quote:** <br>
+**Link to work:**
+
+### Day 17: Nov 24, 2019 
+**Today's Progress:** Did chapter 2 exercise of book 3 - improving classification score on mnist by hyperparameter tuninng with GridsearcCV. <br>
+**Thoughts/Quote:** <br>
+**Link to work:**
+
+### Day 17: Nov 27, 2019 
+**Today's Progress:** Started working with customer segmentation data from kaggle.<br>
+**Thoughts/Quote:** <br>
+**Link to work:**
